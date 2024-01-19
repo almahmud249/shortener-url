@@ -5,7 +5,7 @@
             <div class="flex">
                 <!-- Logo -->
                 <div class="shrink-0 flex items-center">
-                    <a href="{{route('dahboard')}}">
+                    <a href="{{route('dashboard')}}">
                         <img src="https://qtecsolution.com/static/homepage/assets/images/logo/logo.svg">
                     </a>
                 </div>
