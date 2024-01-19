@@ -17,8 +17,6 @@ Follow the instructions below to setup the project quickly:
 -   Run ``php artisan key:generate`` command
 -   Run ``php artisan serve`` command
 -   Run ``yarn dev`` or ``npm run dev`` command (Start the Vite development server)
--   Login as admin (email:admin@qtec.test.....pass:123456)
-
 *******************
 Release Information
 *******************
